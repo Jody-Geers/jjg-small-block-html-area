@@ -1,0 +1,50 @@
+/*
+Plugin Name: Small Block HTML Area
+Plugin URI: https://github.com/Jody-Geers
+Description: JJG HTML Block widgit.
+Version: 1.0
+Author: Jody Jacobus Geers
+Author URI: https://github.com/Jody-Geers
+License: GPL3
+*/
+
+
+
+/* 
+* Main widgitS wrapper
+*/
+#jjg-small-block-html-area-wrapper {
+    min-height: 258px;
+    /*background-color: #21759b;*/
+}
+
+
+
+/*
+* Main Widgit Wrapper
+*/
+.jjg_small_block_html_area {
+    width: 286px;
+    float:left;
+    min-height: 258px;
+    margin-left: 20px;
+    padding: 20px;
+    background-image: url('../views/images/jjg_background.png');
+    background-repeat: no-repeat;
+}
+
+
+
+/*
+* Widgit Title
+*/
+.jjg_small_block_html_area .widget-title {
+}
+
+
+
+/*
+* Widgit Content
+*/
+.jjg_small_block_html_area .widget-content {
+}
