@@ -10,6 +10,9 @@ License: GPL3
 */
 ?>
 <?php
+
+namespace JJG_HTML_BLOCK;
+
 class Block {
     
     

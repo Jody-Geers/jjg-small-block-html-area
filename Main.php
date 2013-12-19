@@ -43,8 +43,8 @@ class jjg_small_block_html_area extends WP_Widget {
         self::$pluginGlobalArgs = array(
             'pluginBaseDir' => plugin_dir_path(__FILE__),
             'pluginBaseUrl' => plugin_dir_url(__FILE__),
-            'binHtmlTools' => new HtmlTools,
-            'controllerBlock' => new Block
+            'binHtmlTools' => new JJG_HTML_BLOCK\HtmlTools,
+            'controllerBlock' => new JJG_HTML_BLOCK\Block
         );
         
         $widget_options = array(
