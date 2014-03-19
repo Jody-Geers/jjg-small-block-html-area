@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Small Block HTML Area
-Plugin URI: https://github.com/Jody-Geers
+Plugin URI: https://github.com/Jody-Geers/jjg-small-block-html-area
 Description: JJG HTML Block widgit.
 Version: 1.0
 Author: Jody Jacobus Geers
