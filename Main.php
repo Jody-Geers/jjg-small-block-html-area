@@ -5,7 +5,7 @@ Plugin URI: https://github.com/Jody-Geers
 Description: JJG HTML Block widgit.
 Version: 1.0
 Author: Jody Jacobus Geers
-Author URI: https://github.com/Jody-Geers
+Author URI: http://jody-geers.github.io/
 License: GPL3
 */
 ?>
